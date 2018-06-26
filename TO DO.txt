@@ -1,0 +1,3 @@
+!. We still have to download a couple more pictures for the women's clothing. 
+2. Fix broken links and remove certain tabs and links
+3. Make it look pretty.
